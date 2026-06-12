@@ -1,9 +1,12 @@
+
+
 ## Aperçu de l'application
 
+
 <p align="center">
-  <img src="Assets/screenshot_library_1.png" alt="Bibliothèque locale - Liste" width="30%" />
-  <img src="Assets/screenshot_library_2.png" alt="Bibliothèque locale - Lecteur" width="30%" />
-  <img src="Assets/screenshot_library_3.png" alt="Bibliothèque locale - Égaliseur" width="30%" />
+  <img src="1.jpeg" alt="Tendances Audius" width="28%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="2.jpeg" alt="Lecteur Vinyle" width="28%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="3.jpeg" alt="Profil Artiste" width="28%" />
 </p>
 
 
