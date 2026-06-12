@@ -1,3 +1,13 @@
+## Aperçu de l'application
+
+<p align="center">
+  <img src="Assets/screenshot_library_1.png" alt="Bibliothèque locale - Liste" width="30%" />
+  <img src="Assets/screenshot_library_2.png" alt="Bibliothèque locale - Lecteur" width="30%" />
+  <img src="Assets/screenshot_library_3.png" alt="Bibliothèque locale - Égaliseur" width="30%" />
+</p>
+
+
+
 # Oloop - Lecteur de Musique Hybride (Local & Streaming Audius)
 
 Oloop est une application Android moderne conçue entièrement avec Jetpack Compose. Elle combine la lecture de fichiers audio locaux et le streaming décentralisé via la plateforme Audius. Elle arbore un design sombre premium avec des accents dorés et propose une expérience utilisateur soignée (vinyle rotatif, animations de jaquette).
